@@ -1,3 +1,7 @@
+<a href="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=graywhite">
+  <img align="center" src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=graywhite" />
+</a>
+
 # 👋Hey there
 
 ## I'm sricor, a designer.
@@ -7,8 +11,12 @@
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...  
 
-![Sricor's GitHub stats](https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=graywhite)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!--
 **Sricor/Sricor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
