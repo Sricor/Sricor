@@ -1,5 +1,5 @@
 # 👋Hey there
-
+<img align="right" src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=react&hide_border=true" />
 ## I'm sricor, a designer.
 - 👨‍💻 Focus on Vue.js
 - 📫 Learning to paint 
@@ -7,7 +7,7 @@
 - 😄 Fun
 
 
-<img align="right" src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=react&hide_border=true" />
+
 
 
 <!--
