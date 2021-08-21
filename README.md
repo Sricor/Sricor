@@ -1,5 +1,6 @@
-## 👋Hey there
+# 👋Hey there
 
+## I'm sricor, a designer.
 
 - 💬 Focus on: ...  
 - 📫 How to reach me: ...  
