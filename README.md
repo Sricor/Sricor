@@ -7,6 +7,8 @@
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...  
 
+![Sricor's GitHub stats](https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=graywhite)
+
 <!--
 **Sricor/Sricor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
