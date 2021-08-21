@@ -7,7 +7,7 @@
 - 😄 Fun
 
 
-<img src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=react&hide_border=true" />
+<img align="right" src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=react&hide_border=true" />
 
 
 <!--
