@@ -1,12 +1,13 @@
 # 👋Hey there
 
 ## I'm sricor, a designer.
-- 👨‍💻 Focus on: Vue.js
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...  
-- ⚡ Fun fact: ...  
+- 👨‍💻 Focus on Vue.js
+- 📫 Learning to paint 
+- ⚡ Vite
+- 😄 Fun
 
-<img src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=graywhite" />
+
+<img src="https://github-readme-stats-sricor.vercel.app/api/top-langs/?username=sricor&layout=compact&theme=react&hide_border=true" />
 
 
 <!--
