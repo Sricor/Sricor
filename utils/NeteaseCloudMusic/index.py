@@ -3,8 +3,8 @@ import os
 import action
 
 infos = {
-    "phone": os.getenv('NETEASE_PHONE'),
-    "password": os.getenv('NETEASE_PASSWORD'),
+    "phone": os.environ["NETEASE_PHONE"],
+    "password": os.environ["NETEASE_PASSWORD"],
     # "sc_key": ["XXXX"],
     # "tg_bot_key": ["XXXX", "XXXXX"],
     "bark_key": os.getenv('BARK'),
