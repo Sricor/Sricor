@@ -14,11 +14,11 @@ jobs:
     - uses: actions/setup-python@v2
         
     - name: Main
+      working-directory: ./utils/NeteaseCloudMusic
       env:
         NETEASE_PHONE: ${{ secrets.NETEASE_PHONE }}
         NETEASE_PASSWORD: ${{ secrets.NETEASE_PASSWORD }}
         BARK: ${{ secrets.BARK_PUSH}}
-      working-directory: ./utils/NeteaseCloudMusic
       run: |
         pip install -r requirements.txt
         python index.py
