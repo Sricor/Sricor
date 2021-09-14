@@ -7,7 +7,7 @@ infos = {
     "password": os.environ["NETEASE_PASSWORD"],
     # "sc_key": ["XXXX"],
     # "tg_bot_key": ["XXXX", "XXXXX"],
-    "bark_key": os.getenv('BARK'),
+    "bark_key": os.environ["BARK_PUSH"],
     # "wecom_key": ["XXXX", "XXXX", "XXXX"],
     # "push_plus_key": ["XXXX"],
     # "qmsg_key": ["XXXX"],
