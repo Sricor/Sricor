@@ -17,7 +17,6 @@ jobs:
       working-directory: ./utils/OpenCard
       env:
         JD_COOKIE: ${{ secrets.JD_COOKIE }}
-        BARK: ${{ secrets.BARK_PUSH }}
         QYWX_AM: ${{ secrets.QYWX_AM }}
       run: |
         pip install requests
