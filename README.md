@@ -1,6 +1,6 @@
 
   
-# 👋Hey there <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricor&layout=compact&hide_border=true?hide=CSS" />
+# 👋Hey there <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricor&layout=compact&hide_border=true&exclude_repo=Sricor.github.io" />
 ## I'm sricor, a designer.
 - 👨‍💻 Focus on Vue.js
 - 📫 Learning to paint 
