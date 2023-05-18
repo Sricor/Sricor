@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Sricor👋 </h1>
  
 ```python
-class Attributes(Tekky):
+class Attributes(Sricor):
 	@staticmethod
 	def contact() -> tuple:
 	    telegram = "t.me/sricor"
