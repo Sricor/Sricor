@@ -2,22 +2,22 @@
  
 ```python
 class Attributes(Sricor):
-	@staticmethod
-	def contact() -> tuple:
-	    telegram = "t.me/sricor"
-	    twitter   = "@josricor"
+    @staticmethod
+    def contact() -> tuple:
+        telegram = "t.me/sricor"
+        twitter   = "@josricor"
 	    
-	    return telegram, twitter
+        return telegram, twitter
 	
-	@staticmethod
-	def coding() -> tuple:
-		langs = {
-			'expert':   ['python'],
-			'learning': [ 'c++', 'typescript']
-		}
-		environnement = ['vscode']
-		
-		return langs, environnement
+    @staticmethod
+    def coding() -> tuple:
+        langs = {
+            'expert':   ['python'],
+            'learning': [ 'c++', 'typescript']
+        }
+        environnement = ['vscode']
+                  
+        return langs, environnement
 ```
 
 <div align="center">
@@ -28,4 +28,3 @@ class Attributes(Sricor):
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricor&layout=compact&hide_border=true&exclude_repo=Sricor.github.io" />
 </div>
-
