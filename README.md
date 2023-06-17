@@ -23,7 +23,7 @@ class Attributes(Sricor):
 <div align="center">
  <h2>Skills</h2>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,py,ts,react,vscode,docker,linux&perline=4" />
+    <img src="https://skillicons.dev/icons?i=go,py,js,ts,react,vscode,docker,linux&perline=4" />
   </a>
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricor&layout=compact&hide_border=true&exclude_repo=Sricor.github.io" />
