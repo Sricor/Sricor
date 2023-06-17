@@ -13,7 +13,7 @@ class Attributes(Sricor):
     def coding() -> tuple:
         langs = {
             'expert':   ['python'],
-            'learning': [ 'c++', 'typescript']
+            'learning': [ 'c++', 'typescript', 'go']
         }
         environnement = ['vscode']
                   
