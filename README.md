@@ -1,23 +1,24 @@
 <h1 align="center"> Hi, I'm Sricor👋 </h1>
  
-```python
-class Attributes(Sricor):
-    @staticmethod
-    def contact() -> tuple:
-        telegram = "t.me/sricor"
-        twitter   = "@josricor"
-	    
-        return telegram, twitter
-	
-    @staticmethod
-    def coding() -> tuple:
-        langs = {
-            'expert':   ['python'],
-            'learning': [ 'c++', 'typescript', 'go']
-        }
-        environnement = ['vscode']
-                  
-        return langs, environnement
+```typescript
+class Attributes {
+  static contact(): ContactInfo {
+    return {
+      telegram: "t.me/sricor",
+      twitter: "@josricor",
+    };
+  }
+
+  static coding(): CodingInfo {
+    return {
+      languages: {
+        expert: ['c++'],
+        learning: ['typescript', 'python'],
+      },
+      environment: ['vscode'],
+    };
+  }
+}
 ```
 
 <div align="center">
